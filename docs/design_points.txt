@@ -1,0 +1,17 @@
+version 1 -> only wealth tracker
+version 2 -> adding daily expense.
+
+version 1
+
+Master index page.
+
+Wealth regular page
+A form with adding monthly wealth heads.
+(Months update/ overwritter for a month)
+Example: <wealth ptr> <amount>
+
+Goal page
+For fire calculation n all based on inputs.
+
+Stats page.
+Some stats to show goal/projection
