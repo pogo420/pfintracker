@@ -1,17 +1,22 @@
 version 1 -> only wealth tracker
 version 2 -> adding daily expense.
 
-version 1
+#################  version 1 ##################
 
 Master index page.
+    All links.
 
-Wealth regular page
-A form with adding monthly wealth heads.
-(Months update/ overwritter for a month)
-Example: <wealth ptr> <amount>
+Wealth update page.
+    A form with adding monthly wealth updates.
+    Example: <wealth ptr> <amount> <comments>
 
-Goal page
-For fire calculation n all based on inputs.
+Fire page.
+    Fire calulation
 
-Stats page.
-Some stats to show goal/projection
+Non Emergency Fund tracker.
+    Update fund.
+
+Status.
+    All wealth status with projection.
+    Fire status vs goal.
+    Non emergency fund.
