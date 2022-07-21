@@ -20,3 +20,17 @@ Status.
     All wealth status with projection.
     Fire status vs goal.
     Non emergency fund.
+
+
+Next day:
+    Detailed plan.
+
+Plan:
+1. Basic server entry flow, via main.
+2. Persistane API endpoints.
+3. Wealth Update Plan.
+4. Non Emergency Fund tracker.
+5. Fire
+6. Status 
+7. Index.
+
