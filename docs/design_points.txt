@@ -11,7 +11,7 @@ Wealth update page.
     Example: <wealth ptr> <amount> <comments>
 
 Fire page.
-    Fire calulation
+    Fire calculation
 
 Non Emergency Fund tracker.
     Update fund.
@@ -21,13 +21,15 @@ Status.
     Fire status vs goal.
     Non emergency fund.
 
+Important Info.
+    Keep some useful info for pulling data.
 
 Next day:
     Detailed plan.
 
 Plan:
 1. Basic server entry flow, via main.
-2. Persistane API endpoints.
+2. Persistance API endpoints.
 3. Wealth Update Plan.
 4. Non Emergency Fund tracker.
 5. Fire
